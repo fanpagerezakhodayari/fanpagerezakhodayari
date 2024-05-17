@@ -3,5 +3,5 @@
 - 🌐 Github page is https://fanpagerezakhodayari.github.io
 
 <!---
-fanpagerezakhodayari/fanpagerezakhodayari is a ✨ fan page ✨ for Reza Khodayari in three languages Persian (Farsi), English, and Turkish.
+fanpagerezakhodayari/fanpagerezakhodayari.github.io is a ✨ fan page ✨ for Reza Khodayari in three languages Persian (Farsi), English, and Turkish.
 --->
